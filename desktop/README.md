@@ -1,6 +1,8 @@
 # Desktop-сборка
 
-Готовый файл для отправки: `release/Schedule-Setup-1.0.0.exe`.
+Готовый установщик: [скачать Schedule-Setup-1.0.0.exe](https://github.com/balagarsage3-web/schedule-desktop/releases/download/v1.0.0/Schedule-Setup-1.0.0.exe).
+Все опубликованные версии находятся в [GitHub Releases](https://github.com/balagarsage3-web/schedule-desktop/releases).
+После локальной сборки файл для отправки появляется в `release/Schedule-Setup-1.0.0.exe`.
 Поддерживаются Windows 10 (1809+) и Windows 11, x64.
 
 Мастер установки на русском языке устанавливает приложение текущему пользователю,
